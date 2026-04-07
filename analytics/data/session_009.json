@@ -1,0 +1,10 @@
+{
+  "session_id": "session_009",
+  "timestamp": "2026-03-26T13:20:36",
+  "score": 235,
+  "time_survived": 82.72,
+  "jumps": 26,
+  "wheat_collected": 7,
+  "obstacles_hit": 5,
+  "caught": false
+}
